@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="958859ce-cbab-4840-b15c-6f1fc6920c59" name="Localhost" url="http://synzstego.test">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\synzstego" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
